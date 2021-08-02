@@ -14,7 +14,7 @@
   <li>💬 Ask me about React & Open Source</li>
 </ul>
 
-<!--
+
 ### Tech Stack
 
 <p align="left">
@@ -27,7 +27,7 @@
   <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>   
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</p> -->
+</p> 
 
 
 <p align="center">
