@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Anant Mishra</h1>
 <p align="center">A meticulous and passionate person, having the ability to bounce back in any circumstance and come up with optimal solutions that can add value to the final product.I have an immense interest in automating things up and contributing to open source.</p>
-<img src="https://github-hero-readme.vercel.app/api?username=&linkedin=anant-mishra-🇮🇳&description=Open Source | Web Developer |    Enthaustic" width="100%">
+<img src="https://github-hero-readme.vercel.app/api?username=Anant7393&linkedin=anant-mishra-🇮🇳&&twitter=Anant&description=Open Source | Web Developer |    Enthaustic" width="100%">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Anant7393" alt="Anant7393" /> </p>
 <ul>
   <li>🔭 Web Developer</li>
