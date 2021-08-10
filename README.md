@@ -9,8 +9,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Anant7393" alt="Anant7393" /> </p>
 <ul>
   <li>🔭 Web Developer</li>
+  <li>🔭 Problem Solving</li>
   <li>🌱 I’m currently working on Javascript ans Reactjs</li>
   <li>👨‍💻 All of my projects are available at <a href="https://github.com/Anant7393" target="_blank">https://github.com/Anant7393</a></li>
+  <li>👨‍💻 My portfolio <a href="https://meanant4myself.netlify.app" target="_blank">AnantMishra</a></li>
+  <li>📫 How to reach me: meanantmishra4myself@gmail.com </li>
   <li>💬 Ask me about React & Open Source</li>
 </ul>
 
