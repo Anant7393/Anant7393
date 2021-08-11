@@ -40,10 +40,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant7393&layout=compact&langs_count=10&theme=dark" alt="Anant7393" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anant7393&show_icons=true" alt="Anant7393" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anant7393&show_icons=true&theme=dark" alt="Anant7393" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anant7393&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anant7393&layout=compact&theme=dark" />
 </p>
 
 <h2 align="center">Connect with me</h2>
