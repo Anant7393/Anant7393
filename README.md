@@ -8,7 +8,7 @@
 <img src="https://github-hero-readme.vercel.app/api?username=Anant7393&linkedin=anant-mishra-🇮🇳&&twitter=Anant&description=Open Source | Web Developer |    Enthaustic" width="100%">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Anant7393" alt="Anant7393" /> </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant7393&layout=compact&langs_count=10&count_private=true&theme=radical" alt="Anant" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant7393&layout=compact&langs_count=10&count_private=true&theme=hacker" alt="Anant" />
 </p>
 <ul>
   <li>🔭 Web Developer</li>
