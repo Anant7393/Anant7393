@@ -43,7 +43,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anant7393&show_icons=true&theme=dark" alt="Anant7393" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anant7393&layout=compact&theme=Cayman" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anant7393&layout=compact&theme=dark" />
 </p>
 
 <h2 align="center">Connect with me</h2>
