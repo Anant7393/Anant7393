@@ -7,9 +7,9 @@
 <p align="center">A meticulous and passionate person, having the ability to bounce back in any circumstance and come up with optimal solutions that can add value to the final product.I have an immense interest in automating things up and contributing to open source.</p>
 <img src="https://github-hero-readme.vercel.app/api?username=Anant7393&linkedin=anant-mishra-🇮🇳&&twitter=Anant&description=Open Source | Web Developer |    Enthaustic" width="100%">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Anant7393" alt="Anant7393" /> </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant7393&layout=compact&langs_count=10&count_private=true&theme=monokai" alt="Anant" />
-</p>
+</p> -->
 <ul>
   <li>🔭 Web Developer</li>
   <li>🔭 Problem Solving</li>
