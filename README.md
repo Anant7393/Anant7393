@@ -40,10 +40,10 @@
 ### ⚡ Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant7393&layout=compact&langs_count=10&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="Anant7393" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant7393&layout=compact&langs_count=10&theme=dark" alt="Anant7393" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anant7393&show_icons=true&theme=dark" alt="Anant7393" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anant7393&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="Anant7393" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anant7393&layout=compact&theme=dark" />
