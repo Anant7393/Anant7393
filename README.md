@@ -49,13 +49,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anant7393&layout=compact&theme=dark" />
 </p>
  <br>
-   <summary><b>😍 How much I code</b></summary>
+<!--    <summary><b>😍 How much I code</b></summary>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Anant7393&layout=compact&theme=dracula&langs_count=8&hide_border=true"/>
      </details>
     </td>
    </tr>
    <tr>
-    <td colspan="2">
+    <td colspan="2"> -->
       <details open>
         <summary><b>⛰️ Contributions Himalayas ahead!</b></summary>
           <img src="https://activity-graph.herokuapp.com/graph?username=Anant7393&bg_color=282a36&color=ffffff&line=e36594&point=c885ff&area=true&hide_border=true&custom_title=Commits+go+up+%E2%98%9D+Commits+go+down+%F0%9F%91%87" />
@@ -65,7 +65,7 @@
  </table>
 
 
-<h2 align="center"><br><br>
+<h2 align="center">
 
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i></h2>
@@ -86,7 +86,7 @@
     <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a>
 </div>  
-  
+  <br> <br>
 
 
 <!-- - 🔭 I’m currently working on ...
