@@ -48,8 +48,27 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anant7393&layout=compact&theme=dark" />
 </p>
+ <br>
+   <summary><b>😍 How much I code</b></summary>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Anant7393&layout=compact&theme=dracula&langs_count=8&hide_border=true"/>
+     </details>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2">
+      <details open>
+        <summary><b>⛰️ Contributions Himalayas ahead!</b></summary>
+          <img src="https://activity-graph.herokuapp.com/graph?username=Anant7393&bg_color=282a36&color=ffffff&line=e36594&point=c885ff&area=true&hide_border=true&custom_title=Commits+go+up+%E2%98%9D+Commits+go+down+%F0%9F%91%87" />
+     </details>
+    </td>
+   </tr>
+ </table>
 
-<h2 align="center">Connect with me</h2>
+
+<h2 align="center"><br><br>
+
+<p align="center">
+  <i>Let's connect and chat! Open to anything under the sun.</i></h2>
 <div align="center">  
   <a href="https://github.com/Anant7393" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
