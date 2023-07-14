@@ -14,6 +14,7 @@
   <li>🔭 Web Developer</li>
   <li>🔭 Problem Solving</li>
   <li>🌱 I’m currently working on Javascript ans Reactjs</li>
+  <li>🌱 DSA </li>
   <li>👨‍💻 All of my projects are available at <a href="https://github.com/Anant7393" target="_blank">https://github.com/Anant7393</a></li>
   <li>👨‍💻 My portfolio <a href="https://meanant4myself.netlify.app" target="_blank">AnantMishra</a></li>
   <li>📫 How to reach me: meanantmishra7393@gmail.com </li>
