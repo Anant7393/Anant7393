@@ -4,7 +4,7 @@
 **Anant7393/Anant7393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am  Anant Mishra </h1>
-<p align="center">**A meticulous and passionate person, having the ability to bounce back in any circumstance and come up with optimal solutions that can add value to the final product.I have an immense interest in automating things up and contributing to open source. <br> I'm a #4th year **Computer Science** student from **JSS Academy of Technical Education, Noida**.<br></p> 
+<p align="center">**A meticulous and passionate person, having the ability to bounce back in any circumstance and come up with optimal solutions that can add value to the final product. I have an immense interest in automating things up and contributing to open source. <br> I'm a #4th year **Computer Science** student from **JSS Academy of Technical Education, Noida**.<br></p> 
 <img src="https://github-hero-readme.vercel.app/api?username=Anant7393&linkedin=anant-mishra-🇮🇳&&twitter=Anant&description=Open Source | Web Developer |    Enthaustic" width="100%">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Anant7393" alt="Anant7393" /> </p>
 <!-- <p align="center">
@@ -13,7 +13,7 @@
 <ul>
   <li>🔭 Web Developer</li>
   <li>🔭 Problem Solving</li>
-  <li>🌱 I’m currently working on Javascript ans Reactjs</li>
+  <li>🌱 I’m currently working on Javascript and Reactjs</li>
   <li>🌱 DSA </li>
   <li>👨‍💻 All of my projects are available at <a href="https://github.com/Anant7393" target="_blank">https://github.com/Anant7393</a></li>
   <li>👨‍💻 My portfolio <a href="https://meanant4myself.netlify.app" target="_blank">AnantMishra</a></li>
