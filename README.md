@@ -51,7 +51,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anant7393&layout=compact&theme=dark" />
 </p>
  <br>
-<!--    <summary><b>😍 How much I code</b></summary>
+<!--    <summary><b>😍🙄 How much I code</b></summary>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Anant7393&layout=compact&theme=dracula&langs_count=8&hide_border=true"/>
      </details>
     </td>
