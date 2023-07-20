@@ -18,7 +18,7 @@
   <li>👨‍💻 All of my projects are available at <a href="https://github.com/Anant7393" target="_blank">https://github.com/Anant7393</a></li>
   <li>👨‍💻 My portfolio <a href="https://meanant4myself.netlify.app" target="_blank">AnantMishra</a></li>
   <li>📫 How to reach me: meanantmishra7393@gmail.com </li>
-  <li>💬 Ask me about React & Open Source</li>
+  <li>💬 Ask me about React & Open Source.</li>
 </ul>
 
  
