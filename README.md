@@ -20,7 +20,12 @@
   <li>📫 How to reach me: meanantmishra7393@gmail.com </li>
   <li>💬 Ask me about React & Open Source.</li>
 </ul>
+<div align="center">
 
+## 💡 A Quote:
+
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
  
 ### 🛠 Tech Stack
 <!--  
